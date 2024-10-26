@@ -21,4 +21,4 @@ extra parameters:
 
 `errorTextBuilder` specifies how the error text widget is defined. The `errorTextAnchor` and `textFieldAnchor`, plus `errorTextOffset` will determine how the error text widget is placed relative to the form field.
 
-![Example](https://imgur.com/a/IOeOCCx)
+![Example](https://i.imgur.com/CDb6Gh0.jpeg)
